@@ -1,0 +1,6 @@
+Consultatie 100.00 30
+Albire_dentara 200.00 60
+Extractie_masea 300.00 45
+Detartraj 100.00 45
+Tratament_de_canal 150.00 30
+Implant_dentar 400.00 90
